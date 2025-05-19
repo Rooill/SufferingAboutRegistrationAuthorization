@@ -1,0 +1,15 @@
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\AuthController.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\AuthStudentRepository.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\AuthUser.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\configurations\MVCConfiguration.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\configurations\SecurityConfiguration.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\controllers\AuthontificationController.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\controllers\RegistrationController.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\controllers\ResponseAuthentification.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\repository\RoleRepository.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\repository\UserRepository.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\Role.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\service\ResponseRegistration.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\service\UserService.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\SsoServerRealApplication.java
+C:\Users\Acer\eclipse-workspace\sso-server-real\src\main\java\ru\sso_server_real\TestService.java
